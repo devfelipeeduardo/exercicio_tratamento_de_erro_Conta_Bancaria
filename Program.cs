@@ -40,7 +40,7 @@ namespace Exercisies_Try_Except {
 
 
             } catch (MovimentationException e){
-                Console.WriteLine("Erro de movimentação:" + e);
+                Console.WriteLine("Erro de movimentação:" + e.Message);
             }
         }
     }

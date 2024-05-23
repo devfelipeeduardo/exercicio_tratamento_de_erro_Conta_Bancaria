@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("exercicio_tratamento_de_erro_Conta_Bancaria")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3b1a07e08fce4a516a4e793409629609a430c99d")]
 [assembly: System.Reflection.AssemblyProductAttribute("exercicio_tratamento_de_erro_Conta_Bancaria")]
 [assembly: System.Reflection.AssemblyTitleAttribute("exercicio_tratamento_de_erro_Conta_Bancaria")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
